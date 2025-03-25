@@ -1,0 +1,2 @@
+# Vulto Bot Dependencies
+requests
