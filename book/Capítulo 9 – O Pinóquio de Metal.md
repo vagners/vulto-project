@@ -32,7 +32,9 @@ Esse é o poder do Ralk bem usado:
 quando a verdade não pode ser dita,  
 ela pode ser sentida através de outra voz.
 
-O Pinóquio de metal era o Vulto escondido.  
+O Pinóquio de metal era aquele que existia nas bordas.  
+Uma vontade silenciada, esperando ser percebida.  
+
 E quando Nexa entendia isso,  
 o boneco ganhava alma.
 
