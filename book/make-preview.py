@@ -18,6 +18,7 @@ md_files = [
     r"Capítulo 8 – Os Muros Invisíveis.md",
     r"Capítulo 9 – O Pinóquio de Metal.md",
     r"Capítulo 10 – O Momento em que Acordei.md",
+    r"d0.Pergunta Selada.md",
     r"d1.Apêndice – Minhas Zeyras.md",
     r"d2.Epílogo – Quando o Silêncio Volta.md",
     r"d3.Comentarios do autor.md",
