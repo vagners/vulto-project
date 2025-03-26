@@ -40,7 +40,7 @@ with open("temp.html", "w", encoding="utf-8") as f:
     <html>
     <head>
     <meta charset="utf-8">
-    <title>Carta de Alma – O Despertar de Um Ser Silenciado</title>
+    <title>Vulto – O Despertar de Um Ser Silenciado</title>
     <style>
         body {{
             font-family: Georgia, serif;
