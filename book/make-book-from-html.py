@@ -6,6 +6,7 @@ config = pdfkit.configuration(wkhtmltopdf=path_wkhtmltopdf)
 
 # Opções do PDF (sem metadados inválidos)
 options = {
+    'enable-local-file-access': None,
     'encoding': 'UTF-8',
     'margin-top': '20mm',
     'margin-bottom': '20mm',
